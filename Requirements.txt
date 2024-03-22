@@ -1,0 +1,3 @@
+pip install pdfplumber 
+pip install pdfquery
+pip install fitz
